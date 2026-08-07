@@ -20,18 +20,6 @@ O **Estúdio de Ideias** funciona como um repositório digital de projetos acad�
 * JavaScript
 * Bootstrap
 
-## Equipe
-
-* Allan Rodrigues
-* Eduardo Moreira
-* Hugo Vaz
-* Maicon Theodoro
-* Vinícius Silva
-
-### Orientador
-
-* Marco Rodrigo Costa
-
 ## Documentação
 
 1. [Documentação de Contexto](documentos/01-Documentação%20de%20Contexto.md)
@@ -52,7 +40,3 @@ https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2025-1-e1-proj-web-t5-projestud
 ## Código-Fonte
 
 * [Código Fonte](codigo-fonte/README.md)
-
-## Apresentação
-
-* [Apresentação do Projeto](apresentacao/README.md)

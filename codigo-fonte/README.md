@@ -47,7 +47,6 @@ O site em HTML/CSS/JS é um projeto estático, portanto pode ser utilizado diret
 - Compatibilidade com favoritos via `localStorage`.
 
 **Página de Favoritos**  
-Desenvolvedor responsável: Vinícius  
 - Exibição de projetos marcados pelo usuário.  
 - Função de desmarcar/remover favoritos.  
 - Persistência em `localStorage`.  
